@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Clêrton Leal]]></title>
-  <link href="http://clertonleal.github.io/atom.xml" rel="self"/>
-  <link href="http://clertonleal.github.io/"/>
-  <updated>2014-07-18T21:43:33-03:00</updated>
-  <id>http://clertonleal.github.io/</id>
+  <link href="http://clertonleal.com/atom.xml" rel="self"/>
+  <link href="http://clertonleal.com/"/>
+  <updated>2014-07-18T22:20:11-03:00</updated>
+  <id>http://clertonleal.com/</id>
   <author>
     <name><![CDATA[Clêrton Leal]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[O Ciclo]]></title>
-    <link href="http://clertonleal.github.io/blog/2014/07/17/o-ciclo/"/>
+    <link href="http://clertonleal.com/blog/2014/07/17/o-ciclo/"/>
     <updated>2014-07-17T21:53:59-03:00</updated>
-    <id>http://clertonleal.github.io/blog/2014/07/17/o-ciclo</id>
+    <id>http://clertonleal.com/blog/2014/07/17/o-ciclo</id>
     <content type="html"><![CDATA[<p>Sabe, esse é o meu primeiro post. A muito tempo tive a ideia de escrever um blog pessoal sobre desenvolvimento, para fazer posts sobre as coisas novas sobre software que eu estava estudando. Por falta de tempo e principalmente por negligência pessoal, essa ideia nunca havia saído do papel. É estranho ver que quando finalmente decidi criar o meu blog pessoal, não foi com o intuito de escrever sobre um novo framework de desenvolvimento em android ou para analisar uma das novas linguagem hippisters que eu tanto adoro. Mas sim para falar um pouco de carreira, mercado de trabalho e bem estar pessoal.</p>
 
 <p>Mesmo tendo pouco mais de 3 anos de mercado, eu sempre me considerei um desenvolvedor inquieto. Sempre pulando de empresa em empresa, pulando de linguagem para linguagem. Sempre sedento por coisas novas e novos desafios a serem vencidos em software. Tenho certeza que se vocês está lendo isso, tem uma boa chance de você se enquadrar nesse perfil também.

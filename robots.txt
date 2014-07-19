@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://clertonleal.github.io/sitemap.xml 
+Sitemap: http://clertonleal.com/sitemap.xml 
